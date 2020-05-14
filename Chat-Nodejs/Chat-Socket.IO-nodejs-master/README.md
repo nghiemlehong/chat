@@ -23,10 +23,3 @@ npm start
 * MongoDB
 * Socket.IO
 
-## Author
-
-**germancutraro**
-
-## Why
-
-* Practise
